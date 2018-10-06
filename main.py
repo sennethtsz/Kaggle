@@ -4,4 +4,7 @@ import numpy as np
 train = pd.read_csv('./train.csv')
 train.columns
 
-asda
+asdad 
+da
+dd
+asd
