@@ -5,6 +5,7 @@ train = pd.read_csv('./train.csv')
 train.columns
 
 asdad 
-da
-dd
-asd
+sA 
+SAD
+ASD
+AD
